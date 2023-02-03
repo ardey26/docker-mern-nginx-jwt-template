@@ -4,7 +4,7 @@
 - Equipped with Nginx for load balancing and reverse proxy
 - Containerized using docker
 - JWT for authorization/authentication
-- Comes with bootstrap 4 via CDN
+- Comes with bootstrap 5 via CDN
 
 ## Setup
 
