@@ -12,7 +12,7 @@ REQUIREMENTS:
 
 - Completion of environment variables
 - Docker
-- git
+- Git
 
 ```bash
   make build
