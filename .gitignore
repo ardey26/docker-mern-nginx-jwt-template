@@ -1,0 +1,26 @@
+# ENVIRONMENT VARIABLES
+.env
+.env.production
+.env.development
+
+# NPM 
+.npm 
+package-lock.json
+yarn.lock
+
+# LOGS
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# PATCHES
+patches
+
+# OSX
+.DS_Store
+
+# PACKAGED
+dist
+build
